@@ -171,7 +171,3 @@ project/
 - `Adafruit_GFX` — graphics library
 - `ESP-IDF LEDC driver` — servo PWM control
 ---
- 
-## License
- 
-MIT License
